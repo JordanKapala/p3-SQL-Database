@@ -1,3 +1,5 @@
+Building an SQL-like Database that creates a shell for user interaction.
+
 Learning Goals:
 
 Selecting appropriate data structures for a given problem.
